@@ -1,0 +1,31 @@
+.header {
+    padding-bottom: 5px;
+}
+.logo-img {
+    width: 100px;
+    float: left;
+    padding-top: 15px;
+}
+.header-name {
+    text-align: center;
+    padding-top: 35px;
+}
+.title-org {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 23px;
+}
+.govt_title {
+    text-align: center;
+}
+.tamil_nadu_logo {
+    width: 100px;
+    padding-top: 15px;
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
